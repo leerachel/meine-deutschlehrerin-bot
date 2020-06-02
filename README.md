@@ -20,4 +20,9 @@ Version 1 Feature:
 - Translates German<->English (verbs only, 1 word at a time)
 - Commands: `/help` `/about` `/toen` (to English) `/tode` (to Deutsch)
 
-* Note: API Keys are hidden. Please supply your own keys.
+Version 1.2 Feature:
+- Translates German<->English (verbs nouns adverbs adjectives, 1 word at a time)
+- Commands: `/start` `/help` `/about` `/toen` (to English) `/tode` (to Deutsch)
+- Special feature - synonyms added (supplied together with translation)
+
+Note: API Keys are hidden. Please supply your own keys.
